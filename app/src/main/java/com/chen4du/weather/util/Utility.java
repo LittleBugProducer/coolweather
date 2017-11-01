@@ -1,11 +1,11 @@
-package com.coolweather.android.util;
+package com.chen4du.weather.util;
 
 import android.text.TextUtils;
 
-import com.coolweather.android.db.City;
-import com.coolweather.android.db.County;
-import com.coolweather.android.db.Province;
-import com.coolweather.android.gson.Weather;
+import com.chen4du.weather.db.City;
+import com.chen4du.weather.db.County;
+import com.chen4du.weather.db.Province;
+import com.chen4du.weather.gson.Weather;
 import com.google.gson.Gson;
 
 import org.json.JSONArray;

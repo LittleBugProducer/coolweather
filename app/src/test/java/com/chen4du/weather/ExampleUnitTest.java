@@ -1,4 +1,4 @@
-package com.coolweather.android;
+package com.chen4du.weather;
 
 import org.junit.Test;
 

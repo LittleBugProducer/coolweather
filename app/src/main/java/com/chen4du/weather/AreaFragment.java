@@ -1,4 +1,4 @@
-package com.coolweather.android;
+package com.chen4du.weather;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,12 +15,11 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.bumptech.glide.util.Util;
-import com.coolweather.android.db.City;
-import com.coolweather.android.db.County;
-import com.coolweather.android.db.Province;
-import com.coolweather.android.util.HttpUtil;
-import com.coolweather.android.util.Utility;
+import com.chen4du.weather.db.City;
+import com.chen4du.weather.db.County;
+import com.chen4du.weather.db.Province;
+import com.chen4du.weather.util.HttpUtil;
+import com.chen4du.weather.util.Utility;
 
 import org.litepal.crud.DataSupport;
 

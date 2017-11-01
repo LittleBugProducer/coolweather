@@ -1,4 +1,4 @@
-package com.coolweather.android.gson;
+package com.chen4du.weather.gson;
 
 /**
  * Created by lC on 2017/11/1.
